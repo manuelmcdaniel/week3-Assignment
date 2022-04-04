@@ -14,7 +14,7 @@ women<-data.frame(women)
 
 #This code chunk allows me to see the top 2 rows of my data
 #TASK: Write the function that returns the top rows
-head(women)
+head(women,2)
 
 #This code chunk shows me the internal structure 
 #Task: Write the function that shows the number of rows, columns, column names, class of columns   
